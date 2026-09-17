@@ -7,7 +7,7 @@ This is a mobile-first landing page for the Kairaa Unisex Salon & Bridal visitin
 - Instagram: already configured
 - WhatsApp: already configured
 - Phone call: already configured
-- Google Review: placeholder only
+- Google Review: configured
 
 ## Add the Google Review link later
 Open `index.html` and replace:
